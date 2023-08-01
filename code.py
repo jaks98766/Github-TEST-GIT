@@ -1,2 +1,2 @@
-import os
+imp
 import time
